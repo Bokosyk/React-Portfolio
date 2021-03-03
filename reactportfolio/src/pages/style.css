@@ -1,0 +1,67 @@
+html {
+   background-image: linear-gradient(to bottom, rgb(255,255,255, 0.52), rgb(0,255,255, 0.23)),
+ url(https://cdn.shopify.com/s/files/1/0533/2089/files/5-websites-to-download-free-subtle-textures-subtle.jpg?5724472906039650661);
+  background-color: #353839;
+  height: auto;
+  z-index: 1;
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+} 
+/* Allows for a background image to be set  */
+
+html, body { margin: 0; padding: 0; } /*RESETS CSS*/
+
+.navbar-brand {
+  font-family: Montserrat, sans-serif;
+}
+
+/* ABOUT US CARD BODY */
+.container {
+  margin-left: 0px;
+}
+
+/* ABOUT US IMAGE */
+img {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
+
+/* ABOUT US TEXT */
+h5 {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+font-size: 20px;
+font-family: Montserrat, sans-serif;
+}
+
+footer {
+  margin: 100px 0px 0px 0px;
+  background-color: #353839;
+  height: 25vh;
+  width: 100%;
+  color: white;
+  text-align: center;
+
+}
+
+/* SOCIAL MEDIA BUTTONS */
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
