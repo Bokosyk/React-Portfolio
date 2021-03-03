@@ -18,7 +18,7 @@ function Portfolio() {
           <article className="col-lg-6">
             <div>
               <p>Mood</p>
-              <img src="/images/Mood.png" alt="Mood Project" className="img-thumbnail"/>
+              <img src="public/images/Mood.png" alt="Mood Project" className="img-thumbnail"/>
               <a href="https://github.com/Bokosyk/Mood"><button type="button" className="btn btn-outline-dark">Repository</button></a>
               <a href="https://bokosyk.github.io/Mood/"><button type="button" className="btn btn-outline-dark">Website</button></a>
             </div>
