@@ -1,6 +1,5 @@
 import React from "react";
-import Card from "../components/Card";
-import Alert from "../components/Alert";
+
 
 function Contact() {
   return (<section className="container">
