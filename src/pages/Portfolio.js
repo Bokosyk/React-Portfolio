@@ -18,19 +18,19 @@ function Portfolio() {
           <article className="col-lg-6">
             <div>
               <p>Mood</p>
-              <img src="/images/Mood.png" alt="Mood Project" className="img-thumbnail"/>
+              <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Mood.png" alt="Mood Project" className="img-thumbnail"/>
               <a href="https://github.com/Bokosyk/Mood"><button type="button" className="btn btn-outline-dark">Repository</button></a>
               <a href="https://bokosyk.github.io/Mood/"><button type="button" className="btn btn-outline-dark">Website</button></a>
             </div>
             <div>
               <p>Workday Scheduler</p>
-              <img src="/images/Planner.png" alt="Workday Scheduler thumbnail" className="img-thumbnail"/>
+              <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Planner.png" alt="Workday Scheduler thumbnail" className="img-thumbnail"/>
               <a href="https://github.com/Bokosyk/PLANNER"><button type="button" className="btn btn-outline-dark">Repository</button></a>
               <a href="https://bokosyk.github.io/PLANNER/"><button type="button" className="btn btn-outline-dark">Website</button></a>
             </div>
             <div>
               <p>Password Generator</p>
-              <img src="/images/PassGen.png" alt="Password Generator thumbnail" className="img-thumbnail"/>
+              <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/PassGen.png" alt="Password Generator thumbnail" className="img-thumbnail"/>
               <a href="https://github.com/Bokosyk/Password-Generator"><button type="button" className="btn btn-outline-dark">Repository</button></a>
               <a href="https://bokosyk.github.io/Password-Generator/"><button type="button" className="btn btn-outline-dark">Website</button></a>
             </div>

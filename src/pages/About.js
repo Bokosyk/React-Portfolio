@@ -20,7 +20,7 @@ function About() {
 
                 {/* <!-- Testing image  insertion into card title --> */}
                 <div className="col-md-4">
-                  <img src="/images/File_000.jpeg" alt="Placeholder" className="img-thumbnail" />
+                  <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/File_000.jpeg" alt="Placeholder" className="img-thumbnail" />
                 </div>
                 <p className="card-text text-wrap"> Hey there! I'm Leandro. I was born in Kissimmee, Florida, spent a large
                 chunk of my childhood in Las Vegas, Nevada, before moving back down to Florida and have been living here
