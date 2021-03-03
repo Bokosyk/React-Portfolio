@@ -5,9 +5,9 @@ import "./style.css";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://i.imgur.com/qkdpN.jpg">
-        <h1>Pupster</h1>
-        <h2>They're the Good Boys and Girls</h2>
+      <Hero backgroundImage="https://wallpaperaccess.com/full/2674019.jpg">
+        <h1>Leandro Parrado</h1>
+        <h2>Full Stack Web Developer In-Training</h2>
       </Hero>
       <section className="container">
         {/* <!-- Aligns the whole row to the left of the page --> */}
