@@ -20,7 +20,7 @@ Clone the repo or visit the github page.
 
 ## Usage 
 
-![]()
+![Screenshot](https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Screenshot%20(116).png)
 
 Upon opening, click on the "About Me" page in the navigation bar to view my story, "Contact" to reach me, and "Portfolio" to view my previous works.
 
