@@ -9,6 +9,7 @@ function Navbar() {
       <Link className="navbar-brand" to="/">
         Leandro Parrado
       </Link>
+      
       <div>
         <ul className="navbar-nav">
           <li className="nav-item">
@@ -38,12 +39,14 @@ function Navbar() {
             >
               Portfolio
             </Link>
-            {/* <Link
-              to="/images/resume.pdf"
+            </li>
+            <li className="nav-item">
+            <Link
+              to="/public/resume.pdf"
               className={window.location.pathname === "/images/resume.pdf" ? "nav-link active" : "nav-link"}
             >
               Resume
-            </Link> */}
+            </Link>
           </li>
         </ul>
       </div>
