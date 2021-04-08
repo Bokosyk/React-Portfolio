@@ -10,7 +10,7 @@ function Navbar() {
         Leandro Parrado
       </Link>
       
-      <div>
+      <section>
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link
@@ -49,7 +49,7 @@ function Navbar() {
             </Link>
           </li>
         </ul>
-      </div>
+      </section>
     </nav>
   );
 }
