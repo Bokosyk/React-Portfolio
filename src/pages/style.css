@@ -18,29 +18,6 @@ html, body { margin: 0; padding: 0; } /*RESETS CSS*/
   font-family: Montserrat, sans-serif;
 }
 
-/* ABOUT US CARD BODY */
-.container {
-  margin-left: 0px;
-}
-
-/* ABOUT US IMAGE */
-img {
-  float: left;
-  margin: 0px 15px 15px 0px;
-}
-
-/* ABOUT US TEXT */
-h5 {
-  font-family: 'Lobster', cursive;
-  font-size: 40px;
-  text-align: center;
-}
-
-p {
-font-size: 20px;
-font-family: Montserrat, sans-serif;
-}
-
 footer {
   margin: 100px 0px 0px 0px;
   background-color: #353839;

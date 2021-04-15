@@ -1,0 +1,12 @@
+/* ABOUT US IMAGE */
+img {
+    float: left;
+    margin: 0px 15px 15px 0px;
+  }
+  
+  /* ABOUT US TEXT */
+  h5 {
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    text-align: center;
+  }
