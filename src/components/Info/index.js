@@ -7,15 +7,15 @@ function Info() {
 
     <section className="container">
       {/* <!-- Aligns the whole row to the left of the page --> */}
-      <div className="row-align-left">
+      {/* <div className="row-align-left">
         <div className="col-md-10">
           <div className="card mt-2">
             <div className="card-body">
 
-              <h5 className="card-title">About Me</h5>
+              <h5 className="card-title">About Me</h5> */}
 
               {/* <!-- Testing image  insertion into card title --> */}
-              <div className="col-md-4">
+              {/* <div className="col-md-4">
                 <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/File_000.jpeg" alt="Placeholder" className="img-thumbnail" />
               </div>
               <p className="card-text text-wrap"> Hey there! I'm Leandro. I was born in Kissimmee, Florida and spent a large
@@ -29,7 +29,7 @@ function Info() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
