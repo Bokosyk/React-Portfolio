@@ -5,7 +5,6 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-// import Wrapper from "./components/Wrapper";
 
 function App() {
   return (
