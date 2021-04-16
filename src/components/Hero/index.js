@@ -6,9 +6,9 @@ function Hero(props) {
     <div className="hero text-center" style={{ backgroundImage: `url(${props.backgroundImage})` }}>
       {props.children}
       
-      {/* <div className="col-md-4">
+      <div className="col-md-2">
                 <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/File_000.jpeg" alt="Placeholder" className="img-thumbnail" />
-              </div> */}
+              </div>
 
       <p className="text"> Hey there! I'm Leandro. I was born in Kissimmee, Florida and spent a large
         chunk of my childhood in Las Vegas, Nevada, before moving back down to Florida and have been living here
