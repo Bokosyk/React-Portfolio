@@ -4,7 +4,7 @@
 
 
 ## Description 
-A portfolio demonstrating my work, built entirely on React.
+A portfolio demonstrating my work, built entirely on React. An ongoing WIP as I am still learning React!
 
 ## Table of Contents (Optional)
 
