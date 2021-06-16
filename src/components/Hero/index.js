@@ -7,7 +7,7 @@ function Hero(props) {
       {props.children}
       
       <div className="col-md-2">
-                <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/File_000.jpeg" alt="Placeholder" className="img-thumbnail" />
+                <img src="https://raw.githubusercontent.com/Bokosyk/My-Portfolio/main/PICSmall.jpg" alt="Placeholder" className="img-thumbnail" />
               </div>
 
       <p className="text"> Hey there! I'm Leandro. I was born in Kissimmee, Florida and spent a large
