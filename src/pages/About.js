@@ -10,7 +10,7 @@ function About() {
         <h2> Full Stack Web Developer</h2>
       </Hero>
       <Info></Info>
-     
+
     </div>
   );
 }
