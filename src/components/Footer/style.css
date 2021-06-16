@@ -4,6 +4,7 @@
   position: relative;
 }
 
+/* Fixes Footer to the bottom of page */
 .footer span {
   position: fixed;
   bottom: 0;

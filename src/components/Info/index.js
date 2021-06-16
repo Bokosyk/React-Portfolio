@@ -7,8 +7,6 @@ function Info() {
 
      // PICTURE AND BIO
     <section>
-      
-
       <div>
         <img src="https://raw.githubusercontent.com/Bokosyk/My-Portfolio/main/PICSmall.jpg" alt="Placeholder" className="img-thumbnail" />
       </div>
