@@ -5,7 +5,6 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import PDF from './components/pdf/pdf';
 
 function App() {
   return (
@@ -18,7 +17,6 @@ function App() {
           <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
-          <PDF />
       </div>
       <Footer />
     </Router>
