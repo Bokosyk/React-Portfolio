@@ -42,8 +42,8 @@ function Navbar() {
             </li>
             <li className="nav-item">
             <Link
-              to="/public/resume.pdf"
-              className={window.location.pathname === "/images/resume.pdf" ? "nav-link active" : "nav-link"}
+              to="/resume"
+              className={window.location.pathname === "/resume" ? "nav-link active" : "nav-link"}
             >
               Resume
             </Link>
