@@ -16,17 +16,6 @@ html, body {
 .navbar-brand {
   font-family: Montserrat, sans-serif;
 }
-
-footer {
-  margin: 100px 0px 0px 0px;
-  background-color: #353839;
-  height: 25vh;
-  width: 100%;
-  color: white;
-  text-align: center;
-
-}
-
 /* SOCIAL MEDIA BUTTONS */
 .fa {
   padding: 20px;
