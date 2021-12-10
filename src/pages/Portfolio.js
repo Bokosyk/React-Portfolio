@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from '../components/Footer';
 
 
 function Portfolio() {
@@ -48,6 +49,7 @@ function Portfolio() {
           </div>
         </div>
       </div>
+      <Footer />
     </section>)
 }
 

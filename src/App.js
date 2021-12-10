@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,7 +16,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/resume" component={Portfolio} />
       </div>
-      <Footer />
+      
     </Router>
   );
 }
