@@ -13,10 +13,15 @@ nav.navbar.navbar-default {
   font-size: 50px;
   margin: 0px 0px 0px 20px;
   padding: 0px 0px 0px 10px;
+  -webkit-transition: color 0.5s ease-out;
+  -moz-transition: color 0.5s ease-out;
+  -o-transition: color 0.5s ease-out;
+  transition: color 0.5s ease-out;
 }
 
 .title:hover{
   color: #ecf0f1;
+  text-decoration: none;
 }
 
 .nav-item {
@@ -26,6 +31,10 @@ nav.navbar.navbar-default {
   color: #061A23;
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+  -webkit-transition: color 0.5s ease-out;
+  -moz-transition: color 0.5s ease-out;
+  -o-transition: color 0.5s ease-out;
+  transition: color 0.5s ease-out;
 }
 
 .nav-link:hover {

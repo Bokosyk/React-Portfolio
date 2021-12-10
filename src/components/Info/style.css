@@ -1,12 +1,14 @@
 /* ABOUT US IMAGE */
 img {
   display: block;
+  position: relative;
   margin-left: auto;
   margin-right: auto;
   height: 10px;
   width: 300px;
   border: 10px solid #EEE5E5;
 	outline: 5px dashed #EEE5E5;
+  z-index: 3;
     
 }
 
@@ -17,8 +19,59 @@ img.img-thumbnail {
   
   /* ABOUT US TEXT */
 .text {
+  position: relative;
   font-family: 'Josefin Sans', cursive;
   font-size: 25px;
   text-align: center;
   color: #49B265;
+  z-index: 2;
+}
+
+/* CONTACT SECTION */
+.touchbase {
+  background-color:#159947;
+  position: relative;
+  opacity: 0.5;
+  z-index: 2;
+}
+
+/* BG Graphics */
+.fig1 {
+  position: absolute;
+  height: 280px;
+  width: 500px;
+  top: 300px;
+  left: 50vw;
+  background-color: #1F5F5B;
+  z-index: 1;
+}
+
+.fig2 {
+  position: absolute;
+  height: 280px;
+  width: 500px;
+  top: 900px;
+  left: 30vw;
+  background-color: #1F5F5B;
+  z-index: 1;
+}
+
+.fig3 {
+  position: absolute;
+  height: 280px;
+  width: 500px;
+  top: 400px;
+  left: 30vw;
+  background-color: #06373A;
+  z-index: 1;
+}
+
+.fig4 {
+  position: absolute;
+  height: 280px;
+  width: 500px;
+  top: 1000px;
+  left: 50vw;
+  background-color: #06373A;
+  z-index: 1;
 }
