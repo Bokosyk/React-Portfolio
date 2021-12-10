@@ -1,13 +1,14 @@
 footer {
   min-height: 100px;
-  background: #133A1B;
+  background: #20525C;
   position: relative;
-  color: #E4DEAE;
+  color: #54C2CC;
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   padding: 3px;
+  text-align: center;
   
   /* margin: 100px 0px 0px 0px;
   background-color: #353839;
@@ -23,7 +24,7 @@ footer {
   width: 30px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 2px 5px;
   border-radius: 50%;
 }
 
