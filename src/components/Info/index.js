@@ -32,21 +32,23 @@ function Info() {
 
         <h5 className="card-title">Get in Touch</h5>
 
-        
+        <p>For business inquiries and collaborations please contact me below and leave a link to your website or portfolio. I am looking forward to hearing from you!</p>
 
-          {/* // <!-- Email input --> */}
-          <div className="input-row col-md-11">
-            <label id="email-label">E-mail</label>
-          </div>
+
+
+        {/* // <!-- Email input --> */}
+        <div>
+          <label id="email-label">E-mail</label>
           <input id="email" className="form-control" type="email" placeholder="Enter your Email" required />
+        </div>
 
-          {/* // <!-- Name input --> */}
-          <div className="input-row col-md-11 ">
-            <label id="name-label">Name</label>
-            <input id="name" className="form-control" type="text" placeholder="Enter your name" required />
-          </div>
-        
-        <div className="input-row col-md-11">
+        {/* // <!-- Name input --> */}
+        <div>
+          <label id="name-label">Name</label>
+          <input id="name" className="form-control" type="text" placeholder="Enter your name" required />
+        </div>
+
+        <div>
           <label>Message</label>
           <textarea rows="" cols="84" className="form-control" name="description" placeholder="Enter your message here..."></textarea>
         </div>

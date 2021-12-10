@@ -29,10 +29,17 @@ img.img-thumbnail {
 
 /* CONTACT SECTION */
 .touchbase {
-  background-color:#159947;
+  background-color:rgb(73, 178, 101, 0.8);
+  text-align: center;
+  width: 600px;
   position: relative;
-  opacity: 0.5;
+  padding: 5px 15px;
+  margin: auto;
   z-index: 2;
+}
+
+label {
+  float: left;
 }
 
 /* BG Graphics */
