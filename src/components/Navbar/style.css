@@ -3,13 +3,13 @@ nav.navbar.navbar-default {
 }
 
 .navbar {
-  background-color: #213502;
+  background-color: #159947;
   margin: 0px 0px 40px 0px;
 }
 
 .title {
   font-family: 'Pacifico', sans-serif;
-  color: #DFE667;
+  color: #061A23;
   font-size: 50px;
   margin: 0px 0px 0px 20px;
   padding: 0px 0px 0px 10px;
@@ -19,7 +19,7 @@ nav.navbar.navbar-default {
   color: #ecf0f1;
 }
 .nav-link {
-  color: #E4DEAE;
+  color: #061A23;
   font-family: 'Pacifico', sans-serif;
   text-align: center;
 }

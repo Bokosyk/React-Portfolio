@@ -16,8 +16,9 @@ img.img-thumbnail {
 }
   
   /* ABOUT US TEXT */
-p {
+.text {
   font-family: 'Josefin Sans', cursive;
   font-size: 25px;
   text-align: center;
+  color: #49B265;
 }

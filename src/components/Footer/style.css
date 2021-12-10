@@ -1,15 +1,15 @@
 footer {
   min-height: 100px;
-  background: #20525C;
+  background: #159947;
   position: relative;
-  color: #54C2CC;
-  /* position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0; */
+  color: #061A23;
   padding: 3px;
   text-align: center;
-  
+}
+
+/* Footer Text */
+.box {
+  color: #061A23;
 }
 
 /* SOCIAL MEDIA BUTTONS */
@@ -21,6 +21,7 @@ footer {
   text-decoration: none;
   margin: 2px 5px;
   border-radius: 50%;
+  color: #061A23
 }
 
 .fa:hover {
