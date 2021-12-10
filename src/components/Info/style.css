@@ -1,4 +1,4 @@
-/* ABOUT US IMAGE */
+/* INFO IMAGE */
 img {
   display: block;
   position: relative;
@@ -17,7 +17,7 @@ img.img-thumbnail {
   background: linear-gradient(#011B10, #E4DEAE);
 }
   
-  /* ABOUT US TEXT */
+  /* INFO TEXT */
 .text {
   position: relative;
   font-family: 'Josefin Sans', cursive;
