@@ -5,7 +5,6 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import Skill from "./pages/Resume";
 
 function App() {
   return (
@@ -18,7 +17,7 @@ function App() {
           <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/resume" component={Skill} />
+          <Route exact path="/resume" component={Portfolio} />
       </div>
       <Footer />
     </Router>

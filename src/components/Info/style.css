@@ -1,14 +1,20 @@
 /* ABOUT US IMAGE */
 img {
-    float: left;
-    margin: 0px 15px 0px 0px;
-    height: 10px;
-    width: 300px;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10px;
+  width: 300px;
+    
+}
+
+img.img-thumbnail {
+  border-radius: 50%;
+}
   
   /* ABOUT US TEXT */
-  p {
-    font-family: 'Josefin Sans', cursive;
-    font-size: 25px;
-    text-align: center;
-  }
+p {
+  font-family: 'Josefin Sans', cursive;
+  font-size: 25px;
+  text-align: center;
+}
