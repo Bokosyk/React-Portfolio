@@ -24,20 +24,20 @@ function Navbar() {
               About
             </Link>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <Link
               to="/contact"
               className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
             >
               Contact
             </Link>
-          </li>
+          </li> */}
           <li className="nav-item">
             <Link
               to="/portfolio"
               className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
             >
-              Projects
+              Explore
             </Link>
             </li>
             <li className="nav-item">
