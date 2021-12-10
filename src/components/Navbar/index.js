@@ -7,12 +7,12 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link className="title" to="/">
-        Leandro Parrado
+        LEANDRO PARRADO
       </Link>
       
       <section>
-        <ul className="nav navbar-nav navbar-right">
-          
+        <ul className="container">
+
         <li className="nav-item">
             <Link
               to="/portfolio"

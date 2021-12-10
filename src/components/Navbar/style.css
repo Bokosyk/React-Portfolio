@@ -8,7 +8,7 @@ nav.navbar.navbar-default {
 }
 
 .title {
-  font-family: 'Pacifico', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   color: #061A23;
   font-size: 50px;
   margin: 0px 0px 0px 20px;
@@ -18,9 +18,13 @@ nav.navbar.navbar-default {
 .title:hover{
   color: #ecf0f1;
 }
+
+.nav-item {
+  display: inline;
+}
 .nav-link {
   color: #061A23;
-  font-family: 'Pacifico', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   text-align: center;
 }
 
