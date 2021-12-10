@@ -16,17 +16,3 @@ html, body {
 .navbar-brand {
   font-family: Montserrat, sans-serif;
 }
-/* SOCIAL MEDIA BUTTONS */
-.fa {
-  padding: 20px;
-  font-size: 40px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}

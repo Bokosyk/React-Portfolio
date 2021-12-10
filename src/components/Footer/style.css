@@ -1,23 +1,32 @@
-.footer {
+footer {
   min-height: 100px;
   background: #133A1B;
   position: relative;
-  
-  /* margin: 100px 0px 0px 0px;
-  background-color: #353839;
-  height: 25vh;
-  width: 100%;
-  color: white;
-  text-align: center; */
-}
-
-/* Fixes Footer to the bottom of page */
-.footer span {
+  color: #E4DEAE;
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   padding: 3px;
-  background: #B8B8B8;
   
+  /* margin: 100px 0px 0px 0px;
+  background-color: #353839;
+  height: 25vh;
+  width: 100%;
+  text-align: center; */
+}
+
+/* SOCIAL MEDIA BUTTONS */
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
 }
