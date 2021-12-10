@@ -48,15 +48,10 @@ function Info() {
           <input id="name" className="form-control" type="text" placeholder="Enter your name" required />
         </div>
 
-        <div>
+        <div className="submission">
           <label>Message</label>
           <textarea rows="" cols="84" className="form-control" name="description" placeholder="Enter your message here..."></textarea>
-        </div>
-
-
-        {/* // <!-- Portfolio images --> */}
-        <div className="col-lg-3">
-          <button type="button" className="btn btn-success">Submit</button>
+          <a href="/" target="_blank"><button type="button">SUBMIT</button></a>
         </div>
 
       </aside>
