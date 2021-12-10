@@ -5,6 +5,7 @@ footer {
   color: #061A23;
   padding: 3px;
   text-align: center;
+  margin: 15px 0px 0px 0px;
 }
 
 /* Footer Text */
@@ -21,9 +22,16 @@ footer {
   text-decoration: none;
   margin: 2px 5px;
   border-radius: 50%;
-  color: #061A23
+  color: #061A23;
+  -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -o-transition: color 1s ease-out;
+  transition: color 1s ease-out;
 }
 
 .fa:hover {
     opacity: 0.7;
+    color: white;
+    text-decoration: none;
+   
 }
