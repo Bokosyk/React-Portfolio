@@ -53,7 +53,7 @@ function Info() {
         <div className="submission">
           <label>Message</label>
           <textarea rows="" cols="84" className="form-control" name="description" placeholder="Enter your message here..."></textarea>
-          <a href="/" target="_blank"><button type="button">SUBMIT</button></a>
+          <a href="/" target="_blank"><button type="button" className="btn btn-outline-dark">SUBMIT</button></a>
         </div>
 
       </form>
