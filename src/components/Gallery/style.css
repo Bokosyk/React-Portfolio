@@ -2,6 +2,7 @@
 .content img {
   width: 100%;
   height: 300px;
+  border-radius: 5%;
 }
 
 /* Center website */
@@ -40,8 +41,17 @@ h1 {
 
 /* Content */
 .content {
-  background-color: white;
+  background-color: #49B265;
+  border-radius: 7%;
   padding: 10px;
+  text-align: center;
+}
+
+.content button {
+  background-color: #061A23;
+  color: #49B265;
+  font-family: 'Josefin Sans', sans-serif;
+  
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
