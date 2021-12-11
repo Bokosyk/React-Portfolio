@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <Link className="title" to="/">
-        LEANDRO PARRADO
+        <figure className="fig5">LEANDRO PARRADO <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Small%20graphic.png" alt="smol boi" /></figure>
       </Link>
       
       <section>

@@ -17,7 +17,6 @@ function Info() {
         <figure className="fig2"></figure>
         <figure className="fig3"></figure>
         <figure className="fig4"></figure>
-        <figure className="fig5"></figure>
       </picture>
 
       <main className="text">

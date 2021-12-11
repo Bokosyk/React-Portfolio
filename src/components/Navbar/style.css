@@ -24,6 +24,12 @@ nav.navbar.navbar-default {
   text-decoration: none;
 }
 
+/* ICON right of title */
+.fig5 img {
+  height: 90px;
+  width: 90px;
+}
+
 .nav-item {
   display: inline;
 }
