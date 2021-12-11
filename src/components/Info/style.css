@@ -3,7 +3,6 @@
   position: relative;
   height: 10px;
   width: 300px;
-  border-radius: 50%;
   border: 10px solid #EEE5E5;
 	outline: 5px dashed #EEE5E5;
   z-index: 2;

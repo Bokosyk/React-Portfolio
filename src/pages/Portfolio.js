@@ -10,18 +10,35 @@ function Portfolio() {
 
       {/* <!-- Portfolio image gallery on a CSS grid --> */}
       <article className="gallery">
+
         <figure className="gallery__item gallery__item--1">
           <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Mood.png" className="gallery__img" alt="Ima 1" />
+          <caption>
+
+          </caption>
         </figure>
+
         <figure className="gallery__item gallery__item--2">
           <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Planner.png" className="gallery__img" alt="Ima 2" />
+          <caption>
+            
+          </caption>
         </figure>
+
         <figure className="gallery__item gallery__item--3">
           <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/PassGen.png" className="gallery__img" alt="Ima 3" />
+          <caption>
+            
+          </caption>
         </figure>
+
         <figure className="gallery__item gallery__item--4">
           <img src="https://raw.githubusercontent.com/Bokosyk/Burger/main/public/assets/Images/Burger.png" className="gallery__img" alt="Ima 4" />
+          <caption>
+            
+          </caption>
         </figure>
+
         {/* <div>
           <p>Mood</p>
           <img src="https://raw.githubusercontent.com/Bokosyk/React-Portfolio/main/public/images/Mood.png" alt="Mood Project" className="img-thumbnail" />
