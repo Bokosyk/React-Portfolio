@@ -9,11 +9,17 @@
 .main {
   max-width: 1000px;
   margin: auto;
+  
 }
 
 h1 {
   font-size: 50px;
   word-break: break-all;
+}
+
+h2 {
+  color: #49B265;
+  text-align: center;
 }
 
 .row {
