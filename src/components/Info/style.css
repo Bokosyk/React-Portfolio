@@ -1,16 +1,17 @@
 /* INFO IMAGE */
-.img-thumbnail {
+.hero img {
   position: relative;
-  height: 10px;
+  border-radius: 50%;
+  height: 400px;
   width: 300px;
-  border: 10px solid #EEE5E5;
-	outline: 5px dashed #EEE5E5;
+  border: 10px solid #061A23;
+	outline: 5px dashed #49B265;
   z-index: 2;
    
 }
 
 .hero {
-  margin: auto;
+  margin: 10px auto;
   text-align: center;
 }
   
